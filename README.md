@@ -1,2 +1,1 @@
-My first readme
-update
+This file is mandatory in projects
